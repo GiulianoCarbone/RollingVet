@@ -1,0 +1,138 @@
+* {
+  font-family: "Righteous", Helvetica, sans-serif;
+}
+
+.navbarBg {
+  background-image: url("https://i.ibb.co/Zz1Q6CX/slider-Mesa-de-trabajo-1.jpg");
+}
+
+.textoFooter {
+  font-weight: bold;
+  color: #f7fff7;
+}
+.footerContainer {
+  background-image: url("https://i.ibb.co/Zz1Q6CX/slider-Mesa-de-trabajo-1.jpg");
+  background-size: 50% 100%;
+}
+
+.iconosFooter {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.iconoRedes {
+  color: #f7fff7;
+}
+
+.iconoRedes:hover {
+  transform: scale(1.2);
+  color: #02be9d;
+}
+.logoRollingvet {
+  max-width: 20em;
+  margin-left: auto;
+}
+
+.logoRollingvet:hover {
+  transform: scale(1.2);
+  transition: 2ms;
+}
+.iconoContacto {
+  margin-right: 1em;
+}
+.listaContactos {
+  text-align: center;
+  list-style: none;
+  margin-left: auto;
+}
+
+.ladoIzq {
+  background-color: #02be9d;
+}
+
+.ladoDer {
+  background-image: url(../assets/img/fondo_alternativo_2_Mesa_de_trabajo_1.jpg);
+}
+
+.logoHorizontal {
+  max-width: 46vw;
+  margin-top: 10vw;
+}
+.numero404 {
+  font-size: 18vw;
+}
+.texto404 {
+  font-size: 4vw;
+}
+.boton404 {
+  margin-top: 4vw;
+}
+.numero404:hover {
+  transform: scale(1.1);
+  color: #02be9d;
+}
+
+body {
+  background-image: url(../assets/img/fondo_alternativo_2_Mesa_de_trabajo_1.jpg);
+  background-size: contain;
+}
+
+.botonEnviar {
+  margin-bottom: 2em;
+  border-style: none;
+}
+
+.cardsPromo {
+  color: #02be9d;
+}
+
+.cuadroComentarios {
+  margin-top: 4em;
+}
+
+.textoComentarios {
+  color: blue;
+}
+
+.botonModal {
+  margin-left: 1rem;
+}
+
+.movimiento:hover {
+  -webkit-transform: scale(1.02);
+  transform: scale(1.02);
+  z-index: 1;
+  transition: 300ms;
+}
+
+.bordecarrousel {
+  border-radius: 55px;
+}
+.fondotitulo {
+  border-radius: 25px;
+  background-image: url("https://i.ibb.co/Zz1Q6CX/slider-Mesa-de-trabajo-1.jpg");
+}
+@media (max-width: 769px) {
+  .footerContainer {
+    background-size: cover;
+  }
+  .navbarBg {
+    background-size: cover;
+  }
+  .media {
+    width: 100%;
+  }
+}
+
+.fondoPacientes {
+  margin-bottom: 15vh;
+}
+
+.botonesPacientes {
+  margin-top: 3vw;
+}
+
+.formulario {
+  max-width: 50vh;
+  margin: auto;
+}

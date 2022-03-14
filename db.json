@@ -1,0 +1,65 @@
+{
+  "pacientes": [
+    {
+      "nombreHum": "sofia acevedo",
+      "email": "marcosjmedina@gmail.com",
+      "tel": "44",
+      "nombre": "holss",
+      "especie": "rrr",
+      "raza": "rrrr",
+      "edad": "2",
+      "id": 1
+    },
+    {
+      "nombreHum": "marcos medina",
+      "email": "marcosjmedina@gmail.com",
+      "tel": "333333",
+      "nombre": "perro",
+      "especie": "perrow",
+      "raza": "ww",
+      "edad": "3",
+      "id": 4
+    },
+    {
+      "nombreHum": "natali",
+      "email": "marcosjmedina@gmail.com",
+      "tel": "3333",
+      "nombre": "uma",
+      "especie": "iii",
+      "raza": "iii",
+      "edad": "2",
+      "id": 5
+    }
+  ],
+  "user": [
+    {
+      "userName": "$2a$12$fyWNTc8d7rPiROR0cVhes.NV7fBM3pRZ0JgPc8U76PyFbBKkWls9u",
+      "pass": "$2a$12$O3PHiEwIYzEOSM/KqMBmW.UcZ/Zg56UgLIAzKuRmckPJNwVtqz6lK",
+      "id": 1
+    }
+  ],
+  "Turnos": [
+    {
+      "fechaYhora": 1,
+      "nombreMascota": "Bazán",
+      "motivoConsulta": "Rodrigo"
+    },
+    {
+      "fechaYhora": 2,
+      "nombreMascota": "naty",
+      "motivoConsulta": "acevedo"
+    }
+  ],
+  "Comentarios": [
+    {
+      "texto": "PRUEBA",
+      "nombreCom": "MARCOS",
+      "id": 1
+    },
+    {
+      "texto": "FSDFSDFSDF",
+      "nombreCom": "PRUEBA PRUEBA",
+      "id": 2
+    }
+  ]
+}
